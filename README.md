@@ -42,16 +42,6 @@ Production, code, and style — all in one mindset.
 
 ---
 
-### Stats
-<div align="center">
-  
-![Muffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanticMuffy&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B5DE5&icon_color=9B5DE5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanticMuffy&layout=compact&theme=tokyonight&hide_border=true&title_color=9B5DE5)
-
-</div>
-
----
-
 <h3 align="center">
   <a href="https://github.com/RomanticMuffy">
     <img src="https://img.shields.io/badge/View%20Projects-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
