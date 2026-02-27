@@ -61,3 +61,9 @@
     <img src="https://img.shields.io/badge/View%20Projects-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e6030e85-f91e-44ca-8318-3a1a3a6f3086" alt="iori" width="100%"/>
+</div>
+
+
