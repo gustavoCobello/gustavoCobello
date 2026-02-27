@@ -63,7 +63,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e6030e85-f91e-44ca-8318-3a1a3a6f3086" alt="iori" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/e6030e85-f91e-44ca-8318-3a1a3a6f3086" alt="iori" width="200px"/>
 </div>
 
 
