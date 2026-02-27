@@ -10,55 +10,55 @@
 
 ---
 
-### Sobre mim
+### 𝒜𝑏𝑜𝑢𝑡
 
-Sou o Gustavo, estudante do SENAI de 17 anos focado em me tornar um desenvolvedor profissional.  
-No meu tempo livre, dedico meus estudos a tecnologias como **TypeScript**, **React**, **Vite** e **Angular**.  
-Atualmente trabalho no site da equipe de robótica **RAIDENS** e em projetos de **otimização de sistemas**.  
-Paralelamente à programação, produzo música underground sob os nomes **Romantic muffy** e **kaxxaraboy**, unindo meu interesse técnico com a criação artística de forma independente.
+𝙸'𝚖 𝙶𝚞𝚜𝚝𝚊𝚟𝚘, 𝚊 𝟷𝟽-𝚢𝚎𝚊𝚛-𝚘𝚕𝚍 𝚂𝙴𝙽𝙰𝙸 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚋𝚎𝚌𝚘𝚖𝚒𝚗𝚐 𝚊 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.  
+𝙸𝚗 𝚖𝚢 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎, 𝙸 𝚜𝚝𝚞𝚍𝚢 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚜𝚞𝚌𝚑 𝚊𝚜 **𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝**, **𝚁𝚎𝚊𝚌𝚝**, **𝚅𝚒𝚝𝚎**, 𝚊𝚗𝚍 **𝙰𝚗𝚐𝚞𝚕𝚊𝚛**.  
+𝙸 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔 𝚘𝚗 𝚝𝚑𝚎 𝚠𝚎𝚋𝚜𝚒𝚝𝚎 𝚏𝚘𝚛 𝚝𝚑𝚎 **𝚁𝙰𝙸𝙳𝙴𝙽𝚂** 𝚛𝚘𝚋𝚘𝚝𝚒𝚌𝚜 𝚝𝚎𝚊𝚖 𝚊𝚗𝚍 𝚘𝚗 **𝚜𝚢𝚜𝚝𝚎𝚖 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗** 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.  
+𝙰𝚕𝚘𝚗𝚐𝚜𝚒𝚍𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐, 𝙸 𝚙𝚛𝚘𝚍𝚞𝚌𝚎 𝚞𝚗𝚍𝚎𝚛𝚐𝚛𝚘𝚞𝚗𝚍 𝚖𝚞𝚜𝚒𝚌 𝚞𝚗𝚍𝚎𝚛 𝚝𝚑𝚎 𝚗𝚊𝚖𝚎𝚜 **𝚁𝚘𝚖𝚊𝚗𝚝𝚒𝚌 𝙼𝚞𝚏𝚏𝚢** 𝚊𝚗𝚍 **𝚔𝚊𝚡𝚡𝚊𝚛𝚊𝚋𝚘𝚢**, 𝚌𝚘𝚖𝚋𝚒𝚗𝚒𝚗𝚐 𝚖𝚢 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚠𝚒𝚝𝚑 𝚒𝚗𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚝 𝚊𝚛𝚝𝚒𝚜𝚝𝚒𝚌 𝚌𝚛𝚎𝚊𝚝𝚒𝚘𝚗.
 
 ---
 
-### Tecnologias e Ferramentas
+### 𝒯𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠/ 𝒯𝑜𝑜𝑙𝑠
 
 <div align="center">
 
-<!-- Linguagens -->
+<!-- Languages -->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 
-<!-- Frameworks e Bibliotecas -->
+<!-- Frameworks & Libraries -->
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<!-- Ferramentas -->
+<!-- Tools -->
 ![VS Code](https://img.shields.io/badge/-VS%20Code-9B5DE5?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-2D2D2D?style=for-the-badge&logo=github)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-<!-- Música -->
+<!-- Music -->
 ![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
 
 </div>
 
 ---
 
-### Projetos em destaque
+### 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑑 𝒫𝑟𝑜𝑗𝑒𝑐𝑡𝑠
 
-- **Site da equipe RAIDENS** – Desenvolvimento e manutenção do site oficial da equipe de robótica.  
-- **Otimização de sistemas** – Projetos focados em performance e boas práticas de código.  
-- **Produção musical** – Lançamentos independentes sob os nomes Romantic muffy e kaxxaraboy.
+- **RAIDENS Robotics Website** – Development and maintenance of the official robotics team website.  
+- **System Optimization** – Projects focused on performance and clean coding practices.  
+- **Music Production** – Independent releases under the names Romantic Muffy and kaxxaraboy.
 
 ---
 
 <h3 align="center">
   <a href="https://github.com/RomanticMuffy">
-    <img src="https://img.shields.io/badge/Ver%20Projetos-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Projects-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
