@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Gustavo;+%7C+Romantic+Muffy;+%7C+kaxxaraboy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=𝙶𝚞𝚜𝚝𝚊𝚟𝚘;+%7C+𝑹𝒐𝒎𝒂𝒏𝒕𝒊𝒄+𝑴𝒖𝒇𝒇𝒚;+%7C+𝓴𝓪𝔁𝔁𝓪𝓻𝓪𝓫𝓸𝔂" alt="Typing SVG" />
 </h1>
 
 ---
@@ -51,9 +51,9 @@
 
 ### 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑑 𝒫𝑟𝑜𝑗𝑒𝑐𝑡𝑠
 
-- **RAIDENS Robotics Website** – Development and maintenance of the official robotics team website.  
-- **System Optimization** – Projects focused on performance and clean coding practices.  
-- **Music Production** – Independent releases under the names Romantic Muffy and kaxxaraboy.
+- **𝚁𝙰𝙸𝙳𝙴𝙽𝚂 𝚁𝚘𝚋𝚘𝚝𝚒𝚌𝚜 𝚆𝚎𝚋𝚜𝚒𝚝𝚎** – 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚖𝚊𝚒𝚗𝚝𝚎𝚗𝚊𝚗𝚌𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚛𝚘𝚋𝚘𝚝𝚒𝚌𝚜 𝚝𝚎𝚊𝚖 𝚠𝚎𝚋𝚜𝚒𝚝𝚎.  
+- **𝚂𝚢𝚜𝚝𝚎𝚖 𝙾𝚙𝚝𝚒𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗** – 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎 𝚊𝚗𝚍 𝚌𝚕𝚎𝚊𝚗 𝚌𝚘𝚍𝚒𝚗𝚐 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎𝚜.  
+- **𝙼𝚞𝚜𝚒𝚌 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗** – 𝙸𝚗𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚝 𝚛𝚎𝚕𝚎𝚊𝚜𝚎𝚜 𝚞𝚗𝚍𝚎𝚛 𝚝𝚑𝚎 𝚗𝚊𝚖𝚎𝚜 𝚁𝚘𝚖𝚊𝚗𝚝𝚒𝚌 𝙼𝚞𝚏𝚏𝚢 𝚊𝚗𝚍 𝚔𝚊𝚡𝚡𝚊𝚛𝚊𝚋𝚘𝚢.
 
 ---
 
