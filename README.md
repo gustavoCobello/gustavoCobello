@@ -42,9 +42,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-<!-- Music -->
-![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
-
 </div>
 
 ---
