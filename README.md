@@ -1,9 +1,7 @@
 <!-- README - Gustavo (Romantic Muffy) -->
 
 
-<div align="center">
 ![rei-ayanami-blinking-her-eyes-b4ouf0v169kn5r65](https://github.com/user-attachments/assets/e470cf6c-c318-4abf-b49f-3671382b6cbd)
-</div>
 
 
 <h1 align="center">
