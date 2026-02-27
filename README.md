@@ -1,8 +1,8 @@
 <!-- README - Gustavo (Romantic Muffy) -->
 
-
-![rei-ayanami-blinking-her-eyes-b4ouf0v169kn5r65](https://github.com/user-attachments/assets/e470cf6c-c318-4abf-b49f-3671382b6cbd)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e470cf6c-c318-4abf-b49f-3671382b6cbd" alt="Rei Ayanami blinking her eyes" width="300"/>
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Gustavo;+%7C+Romantic+Muffy;+%7C+kaxxaraboy" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 ---
 
-### 𝒯𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠/ 𝒯𝑜𝑜𝑙𝑠
+### 𝒯𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 / 𝒯𝑜𝑜𝑙𝑠
 
 <div align="center">
 
@@ -42,6 +42,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+<!-- Music Production -->
 ![FL Studio](https://img.shields.io/badge/-FL%20Studio-FF8800?style=for-the-badge&logo=flstudio&logoColor=white)
 </div>
 
