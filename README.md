@@ -4,10 +4,6 @@
   <img src="https://github.com/user-attachments/assets/e470cf6c-c318-4abf-b49f-3671382b6cbd" alt="Rei Ayanami blinking her eyes" width="100%"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Gustavo;+%7C+Romantic+Muffy;+%7C+kaxxaraboy" alt="Typing SVG" />
-</h1>
-
 ---
 
 ### 𝒜𝑏𝑜𝑢𝑡
