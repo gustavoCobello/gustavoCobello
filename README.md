@@ -1,7 +1,9 @@
 <!-- README - Gustavo (Romantic Muffy) -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e470cf6c-c318-4abf-b49f-3671382b6cbd" alt="Rei Ayanami blinking her eyes" width="100%"/>
+
+  <img src="https://github.com/user-attachments/assets/28444158-0754-4b5b-922b-edd933517a08" alt="hehe" width="200px"/>
+  <img src="https://github.com/user-attachments/assets/e470cf6c-c318-4abf-b49f-3671382b6cbd" alt="Rei Ayanami" width="100%"/>
 </div>
 
 ---
