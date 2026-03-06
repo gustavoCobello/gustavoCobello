@@ -1,8 +1,6 @@
 <!-- README - Gustavo (Romantic Muffy) -->
 
 <div align="center">
-
-  <img src="https://github.com/user-attachments/assets/28444158-0754-4b5b-922b-edd933517a08" alt="hehe" width="200px"/>
   <img src="https://github.com/user-attachments/assets/e470cf6c-c318-4abf-b49f-3671382b6cbd" alt="Rei Ayanami" width="100%"/>
 </div>
 
@@ -55,5 +53,4 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e6030e85-f91e-44ca-8318-3a1a3a6f3086" alt="iori" width="200px"/>
 </div>
-
 
