@@ -1,7 +1,7 @@
 <!-- README - Gustavo (Romantic Muffy) -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e470cf6c-c318-4abf-b49f-3671382b6cbd" alt="Rei Ayanami" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/f2393c03-4607-4b67-8af0-77d95b01f78b" alt="Rei Ayanami" width="100%"/>
 </div>
 
 ---
