@@ -42,7 +42,7 @@
 </br>
 <div align="center">
 <p>
-<a href="https://github.com/RomanticMuffy">
+<a href="https://github.com/RomanticMuffy?tab=repositories">
   <img width="20%" alt="image" src="https://github.com/user-attachments/assets/4311badd-fdd4-4010-b29a-adbebd6299e1" />
 </a>
 </p>
