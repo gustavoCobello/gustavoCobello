@@ -1,10 +1,7 @@
-</br>
-</br>
+
 <div align="center">
 <img width="90%" alt="fgfdg" src="https://github.com/user-attachments/assets/19b87ce7-2104-4657-a537-a0cb06e750ec" />
 </div>
-
----
 
 <div align="center">
 <img width="60%" alt="image" src="https://github.com/user-attachments/assets/71345c6a-d7c6-499f-817f-38f0e1639b41" />
@@ -12,7 +9,7 @@
 
 </br>
 
-<div align="left">
+<div align="center">
 <!-- Languages -->
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
@@ -37,9 +34,6 @@
   <img src="https://img.shields.io/badge/-FL%20Studio-FF8800?style=for-the-badge&logo=flstudio&logoColor=white"/>
 </div>
 
----
-
-<br>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e6030e85-f91e-44ca-8318-3a1a3a6f3086" alt="iori" width="200px"/>
@@ -54,5 +48,4 @@
 </p>
 </div>
 
----
 
