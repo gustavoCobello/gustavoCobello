@@ -1,21 +1,16 @@
-<!-- README - Gustavo (Romantic Muffy) -->
-
+</br>
+</br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f2393c03-4607-4b67-8af0-77d95b01f78b" alt="Rei Ayanami" width="100%"/>
+<img width="90%" alt="fgfdg" src="https://github.com/user-attachments/assets/19b87ce7-2104-4657-a537-a0cb06e750ec" />
 </div>
 
 ---
 
-### 𝒜𝑏𝑜𝑢𝑡
+<div align="center">
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/71345c6a-d7c6-499f-817f-38f0e1639b41" />
+</div>
 
-𝙸'𝚖 𝙶𝚞𝚜𝚝𝚊𝚟𝚘, 𝚊 𝟷𝟽-𝚢𝚎𝚊𝚛-𝚘𝚕𝚍 𝚂𝙴𝙽𝙰𝙸 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚋𝚎𝚌𝚘𝚖𝚒𝚗𝚐 𝚊 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.  
-𝙸𝚗 𝚖𝚢 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎, 𝙸 𝚜𝚝𝚞𝚍𝚢 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚜𝚞𝚌𝚑 𝚊𝚜 **𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝**, **𝚁𝚎𝚊𝚌𝚝**, **𝚅𝚒𝚝𝚎**, 𝚊𝚗𝚍 **𝙰𝚗𝚐𝚞𝚕𝚊𝚛**.  
-
-𝙰𝚕𝚘𝚗𝚐𝚜𝚒𝚍𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐, 𝙸 𝚙𝚛𝚘𝚍𝚞𝚌𝚎 𝚞𝚗𝚍𝚎𝚛𝚐𝚛𝚘𝚞𝚗𝚍 𝚖𝚞𝚜𝚒𝚌 𝚞𝚗𝚍𝚎𝚛 𝚝𝚑𝚎 𝚗𝚊𝚖𝚎𝚜 **𝚁𝚘𝚖𝚊𝚗𝚝𝚒𝚌 𝙼𝚞𝚏𝚏𝚢** 𝚊𝚗𝚍 **𝚔𝚊𝚡𝚡𝚊𝚛𝚊𝚋𝚘𝚢**, 𝚌𝚘𝚖𝚋𝚒𝚗𝚒𝚗𝚐 𝚖𝚢 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚠𝚒𝚝𝚑 𝚒𝚗𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚝 𝚊𝚛𝚝𝚒𝚜𝚝𝚒𝚌 𝚌𝚛𝚎𝚊𝚝𝚒𝚘𝚗.
-
----
-
-### 𝒯𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 / 𝒯𝑜𝑜𝑙𝑠
+</br>
 
 <div align="left">
 <!-- Languages -->
@@ -50,11 +45,14 @@
   <img src="https://github.com/user-attachments/assets/e6030e85-f91e-44ca-8318-3a1a3a6f3086" alt="iori" width="200px"/>
 </div>
 <br>
+</br>
 <div align="center">
 <p>
 <a href="https://github.com/RomanticMuffy">
-  <img src="https://img.shields.io/badge/View%20Projects-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
+  <img width="20%" alt="image" src="https://github.com/user-attachments/assets/4311badd-fdd4-4010-b29a-adbebd6299e1" />
 </a>
 </p>
 </div>
+
+---
 
