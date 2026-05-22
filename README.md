@@ -1,10 +1,10 @@
 
 <div align="center">
-<img width="90%" alt="fgfdg" src="https://github.com/user-attachments/assets/19b87ce7-2104-4657-a537-a0cb06e750ec" />
+<img width="70%" alt="fgfdg" src="https://github.com/user-attachments/assets/cad63aa5-801d-4360-a5b2-70e287d57564" />
 </div>
 
 <div align="center">
-<img width="60%" alt="image" src="https://github.com/user-attachments/assets/71345c6a-d7c6-499f-817f-38f0e1639b41" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/5de59928-f712-4bb0-a7a7-34dd0b8e75b8" />
 </div>
 
 </br>
@@ -34,16 +34,12 @@
   <img src="https://img.shields.io/badge/-FL%20Studio-FF8800?style=for-the-badge&logo=flstudio&logoColor=white"/>
 </div>
 
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e6030e85-f91e-44ca-8318-3a1a3a6f3086" alt="iori" width="200px"/>
-</div>
 <br>
 </br>
 <div align="center">
 <p>
 <a href="https://github.com/RomanticMuffy?tab=repositories">
-  <img width="20%" alt="image" src="https://github.com/user-attachments/assets/4311badd-fdd4-4010-b29a-adbebd6299e1" />
+  <img width="20%" alt="image" src="https://github.com/user-attachments/assets/15afa9ae-8714-41a3-aa29-9b58b5eb3243" />
 </a>
 </p>
 </div>
